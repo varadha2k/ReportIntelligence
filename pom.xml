@@ -4,7 +4,7 @@
 	<groupId>com.chennai.reportintelligence</groupId>
 	<artifactId>reportIngelligence</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
+	<packaging>jar</packaging>
 	<name>Report Intelligece</name>
 	<description>Anaylyse the rest results and make intelligence decisions</description>
 
@@ -14,7 +14,6 @@
 	</properties>
 
 
-	<dependencyManagement>
 		<dependencies>
 			<!-- test-only dependencies -->
 	        <dependency>
@@ -25,6 +24,5 @@
 	        </dependency>
 
 		</dependencies>
-	</dependencyManagement>
 	
 </project>
