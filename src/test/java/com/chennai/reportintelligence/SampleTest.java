@@ -10,4 +10,9 @@ public class SampleTest {
 	public void test1() {
 		assertEquals("Hello","Hello");
 	}
+
+	@Test
+	public void test2() {
+		assertEquals("Hello 2","Hello 2");
+	}
 }
